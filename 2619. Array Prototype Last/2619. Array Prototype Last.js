@@ -15,4 +15,6 @@ Array.prototype.last = function() {
 
 
 const arr = [1, 2, 3];
+const arr02 = [4,5,9];
 console.log(arr.last());
+console.log(arr02.last());
